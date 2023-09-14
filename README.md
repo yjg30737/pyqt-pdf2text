@@ -20,4 +20,4 @@ The current GUI only uses Tesseract for image-to-text conversion and does not us
 5. python main.py
 
 ## Preview
-![image](https://github.com/yjg30737/pyqt-pdf2text/assets/55078043/9a26fed6-0e75-46c8-8cd7-1091740b1fb3)
+![image](https://github.com/yjg30737/pyqt-pdf2text/assets/55078043/021bfa73-3d68-4f59-9fbf-b4a2b907d2c5)
